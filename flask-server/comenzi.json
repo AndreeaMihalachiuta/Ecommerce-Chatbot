@@ -1,0 +1,53 @@
+[
+  {
+    "numarComanda": "ARN111",
+    "modalitatePlata": "Card",
+    "modalitateLivrare": "Fan Courier",
+    "client": {
+      "nume": "Gherman",
+      "prenume": "Laura"
+    },
+    "statusComanda": "Expediat",
+    "adresaDeLivrare": "Str. Fericirii, nr.1, bl. 1, et. 2",
+    "Awb": "111111",
+    "produse": [
+      {
+        "denumire": "SATIN EFFECT CORSET BODYSUIT",
+        "numarArticol": "13241",
+        "descriere": "Bodysuit with sweetheart neckline and adjustable spaghetti straps.",
+        "cantitate": "1",
+        "pret": "120"
+      }
+    ],
+    "totalcomanda": "120"
+  },
+  {
+    "numarComanda": "ARN112",
+    "modalitatePlata": "Card",
+    "modalitateLivrare": "Urgent Cargus",
+    "client": {
+      "nume": "Camarut",
+      "prenume": "Cornelia"
+    },
+    "statusComanda": "In procesare",
+    "adresaDeLivrare": "Str. Tabacului, nr.10, bl. X1, et. 2",
+    "Awb": "111112",
+    "produse": [
+      {
+        "denumire": "MINI SKIRT WITH ZIPPERS",
+        "numarArticol": "2432",
+        "descriere": "High-waisted skirt. Front false pockets with metal zippers. Back hidden in-seam zip closure.",
+        "cantitate": "2",
+        "pret": "200"
+      },
+      {
+        "denumire": "SATIN EFFECT CORSET BODYSUIT",
+        "numarArticol": "13241",
+        "descriere": "Bodysuit with sweetheart neckline and adjustable spaghetti straps.",
+        "cantitate": "1",
+        "pret": "120"
+      }
+    ],
+    "totalComanda": "520"
+  }
+]

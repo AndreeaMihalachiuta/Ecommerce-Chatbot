@@ -1,0 +1,130 @@
+[
+  {
+    "piept": {
+      "dela": 74,
+      "panala": 81
+    },
+    "talie": {
+      "dela": 60,
+      "panala": 65
+    },
+    "solduri": {
+      "dela": 84,
+      "panala": 91
+    },
+    "marime": "XS (32-34)",
+    "prieritate": 1
+  },
+  {
+    "piept": {
+      "dela": 82,
+      "panala": 85
+    },
+    "talie": {
+      "dela": 66,
+      "panala": 70
+    },
+    "solduri": {
+      "dela": 92,
+      "panala": 98
+    },
+    "marime": "S (36-38)",
+    "prieritate": 1
+  },
+  {
+    "piept": {
+      "dela": 90,
+      "panala": 97
+    },
+    "talie": {
+      "dela": 74,
+      "panala": 81
+    },
+    "solduri": {
+      "dela": 99,
+      "panala": 106
+    },
+    "marime": "M (40-42)",
+    "prieritate": 1
+  },
+  {
+    "piept": {
+      "dela": 98,
+      "panala": 100
+    },
+    "talie": {
+      "dela": 82,
+      "panala": 91
+    },
+    "solduri": {
+      "dela": 107,
+      "panala": 110
+    },
+    "marime": "L (44-46)",
+    "prieritate": 1
+  },
+  {
+    "piept": {
+      "dela": 108,
+      "panala": 110
+    },
+    "talie": {
+      "dela": 92,
+      "panala": 102
+    },
+    "solduri": {
+      "dela": 110,
+      "panala": 115
+    },
+    "marime": "XL (48-50)",
+    "prieritate": 1
+  },
+  {
+    "piept": {
+      "dela": 110,
+      "panala": 115
+    },
+    "talie": {
+      "dela": 103,
+      "panala": 114
+    },
+    "solduri": {
+      "dela": 115,
+      "panala": 120
+    },
+    "marime": "2XL (52-54)",
+    "prieritate": 1
+  },
+  {
+    "piept": {
+      "dela": 115,
+      "panala": 120
+    },
+    "talie": {
+      "dela": 115,
+      "panala": 126
+    },
+    "solduri": {
+      "dela": 125,
+      "panala": 130
+    },
+    "marime": "3XL (56-58)",
+    "prieritate": 1
+  },
+  {
+    "piept": {
+      "dela": 120,
+      "panala": 130
+    },
+    "talie": {
+      "dela": 126,
+      "panala": 130
+    },
+    "solduri": {
+      "dela": 130,
+      "panala": 135
+    },
+    "marime": "4XL (58-60)",
+    "prieritate": 1
+  }
+]
